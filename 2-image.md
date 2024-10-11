@@ -4,7 +4,10 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
-# COMPLETAR 
+```
+Una **imagen** es una plantilla estática que contiene todo lo necesario para ejecutar una aplicación, mientras que un **contenedor** es una instancia en ejecución de esa imagen. 
+La imagen es la base, y el contenedor es el entorno aislado y dinámico que se crea a partir de ella para ejecutar aplicaciones.
+```
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
 ## Comandos para imágenes
